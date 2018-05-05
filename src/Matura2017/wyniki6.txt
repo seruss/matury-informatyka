@@ -1,0 +1,12 @@
+Zadanie 1
+Najjaśnieszy piksel: 221
+Najciemniejszy piksel: 7
+
+Zadanie 2
+Najmniejsza liczba wierszy, które trzeba usunąć: 149
+
+Zadanie 3
+Liczba kontrastujących pikseli: 753
+
+Zadanie 4
+Najdłuższa linia pionowa: 5

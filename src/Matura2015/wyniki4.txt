@@ -1,0 +1,10 @@
+Zadanie 1
+Ilość liczb mających w zapisie więcej zer niż jedynek: 422
+
+Zadanie 2
+Ilość liczb podzielnych przez 2: 500
+Ilość liczb podzielnych przez 2: 123
+
+Zadanie 3
+Najmniejsza liczba znajduje się w 859 wierszu.
+Największa liczba znajduje się w 925 wierszu.
